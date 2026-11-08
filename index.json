@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "asta-theorizer",
+  "versions": [
+    {
+      "commit": "c4802aa947128f1e49621d9a52891f612864716c",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:21:53.692485+00:00"
+    }
+  ]
+}
